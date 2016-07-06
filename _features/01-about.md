@@ -21,7 +21,7 @@ The basic idea is to switch from a model where all transactions hit the shared l
 
 Raiden uses a network of p2p payment channels and deposits in Ethereum to preserve the guarantees expected from a blockchain system.
 
-Raiden is implemented as an extension to Ethereum. A Raiden nodes runs alongside an Ethereum node and communicates with other Raiden nodes to facilitate transfers and with the Ethereum blockchain to manage deposits. It offers a simple API which makes it easy use Raiden in DApps. 
+Raiden is implemented as an extension to Ethereum. A Raiden nodes runs alongside an Ethereum node and communicates with other Raiden nodes to facilitate transfers and with the Ethereum blockchain to manage deposits. It offers a simple API which makes it easy to use Raiden in DApps. 
 
 ### **Applications**
 
